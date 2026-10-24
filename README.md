@@ -1,2 +1,7 @@
 # audit-ai-generation-site
-Checks for paid AI image and video generation sites.
+
+oceans777 first-party skill. The entry file is `SKILL.md`.
+
+Canonical repository: https://github.com/oceans777/audit-ai-generation-site
+
+Hub: https://github.com/oceans777/skills
